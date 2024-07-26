@@ -21,7 +21,7 @@
  *    external/polar_monitor/polar_monitor_backend.c
  *-------------------------------------------------------------------------
  */
-
+#include "postgres.h"
 
 #include "catalog/pg_type.h"
 #include "funcapi.h"
